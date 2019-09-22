@@ -1,4 +1,4 @@
-# Tailing Company Site
+# Tailoring Company Site
 
 
 ## Sumer Tailoring
