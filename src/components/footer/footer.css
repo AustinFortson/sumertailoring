@@ -4,7 +4,14 @@
 
 #footerLogo {
     height: 200px;
-    padding: 40px;
+    padding: 20px;
+}
+
+@media screen and (max-width: 800px) {
+    #footerLogo {
+    display: block;
+    margin: auto;
+   }
 }
 
 #footerName {
