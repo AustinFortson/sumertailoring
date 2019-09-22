@@ -1,3 +1,10 @@
 #ImageList {
     margin-top: 100px; 
 }
+
+@media screen and (max-width: 1050px) {
+    #ImageList {
+      padding: 10px;
+    }
+  }
+  
