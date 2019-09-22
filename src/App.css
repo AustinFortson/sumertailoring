@@ -22,9 +22,15 @@
   padding: 20px;
 }
 
-#img {
+#img, #img3 {
   display: block;
   margin: auto;
+}
+
+@media screen and (max-width: 600px) {
+  #img3 {
+    height: 200px;
+  }
 }
 
 #Body2 {

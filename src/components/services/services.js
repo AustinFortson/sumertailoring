@@ -11,7 +11,7 @@ export default function Services() {
             <Grid container id="Content">
                 <Grid item xs={12} md={8} id="Services">
                     <Paper>
-                        <Typography varient="h6" gutterBotton>
+                        <Typography varient="h6" gutterBottom>
                             <ul id="servicesList">
                                 {servicesProvided.map(function (name, index) {
                                     return <li key={index} id={index}>{name}</li>;

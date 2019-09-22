@@ -62,7 +62,7 @@ function App() {
       <Fade up>
       <Grid container id="Content">
       <Grid item xs={12} md={8}>
-          <img src={IMG3} alt="none" height="300px" id="img"/>
+          <img src={IMG3} alt="none" height="400px" id="img3"/>
         </Grid>
 
         <Grid item xs={12} md={4} id="Body2">
@@ -71,18 +71,14 @@ function App() {
             "If you looking for the best tailor with outstanding service and great customer service, thats the place to go, they know what they doing and they take a very good care of you" <a href="https://www.google.com/search?sxsrf=ACYBGNRJK5uY2t5GZVIAdNRHrzWzISxbkg%3A1569010365721&ei=vTKFXeTTK8fStAWxwIzABA&q=sumer+tailoring&oq=sumer+tailoring&gs_l=psy-ab.3..0i10j0i22i30j38.4611703.4615203..4615456...1.0..1.354.1798.11j4j0j1......0....1..gws-wiz.......35i39j0i67j0j0i131j0i20i263j0i131i67j0i13.OEfYCmsHaxs&ved=0ahUKEwikpv2Lm-DkAhVHKa0KHTEgA0gQ4dUDCAs&uact=5#lrd=0x885421d2178a570f:0x44759b962d3444d,1,,," target="_blank" rel="noopener noreferrer">-Google Reviews</a>
             </Typography>
           </Paper>
-        </Grid>
-
-        <Grid item xs={12} md={8}>
-        </Grid>
-
-        <Grid item xs={12} md={4} id="Body2">
+          <br/>
           <Paper>
             <Typography variant="body1" gutterBottom id="whoBodyContent">
             "Fantastic service!  Had various alterations done to my new 3pc suit and couldn’t be happier with the results. Highly recommended.  Second time I’ve used their services and I’ll definitely be back." <a href="https://www.google.com/search?sxsrf=ACYBGNRJK5uY2t5GZVIAdNRHrzWzISxbkg%3A1569010365721&ei=vTKFXeTTK8fStAWxwIzABA&q=sumer+tailoring&oq=sumer+tailoring&gs_l=psy-ab.3..0i10j0i22i30j38.4611703.4615203..4615456...1.0..1.354.1798.11j4j0j1......0....1..gws-wiz.......35i39j0i67j0j0i131j0i20i263j0i131i67j0i13.OEfYCmsHaxs&ved=0ahUKEwikpv2Lm-DkAhVHKa0KHTEgA0gQ4dUDCAs&uact=5#lrd=0x885421d2178a570f:0x44759b962d3444d,1,,," target="_blank" rel="noopener noreferrer">-Google Reviews</a>
             </Typography>
           </Paper>
         </Grid>
+
 
       </Grid>
       </Fade>
