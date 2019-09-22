@@ -1,0 +1,19 @@
+#servicesList {
+    -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+    column-count: 2;
+    column-gap: 20px;
+    padding: 20px;
+    font-family: 'Libre Baskerville', serif;
+    line-height: 3;
+}
+
+#Services {
+    padding: 20px;
+    margin-top: 5%;
+    display: block;
+    margin: auto;
+}
+

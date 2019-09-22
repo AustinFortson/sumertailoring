@@ -1,0 +1,69 @@
+#Header {
+  color: #AE3251;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 150px;
+}
+
+#Content {
+  margin-top: 150px; 
+}
+
+#Body {
+  padding: 20px;
+  margin-top: 5%;
+}
+
+#whoBodyContent {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+}
+
+#img {
+  display: block;
+  margin: auto;
+}
+
+#Body2 {
+  padding: 20px;
+}
+
+#Body3 {
+  padding: 20px;
+  display: grid;
+}
+
+#address {
+  text-decoration: none;
+  color: #AE3251
+}
+
+#address:hover {
+  text-decoration: underline;
+  opacity: .9;
+}
+
+#socialIcons {
+  height: 75px;
+  padding: 5px;
+}
+
+#socialIcons:hover {
+  opacity: .8;
+}
+
+
+#mapIMG {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#mapIMG:hover {
+  opacity: .8;
+}

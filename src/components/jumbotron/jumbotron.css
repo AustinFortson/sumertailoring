@@ -1,0 +1,28 @@
+#leftJumbo {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    width: 50%;
+  }
+  
+  h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 40px; 	
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 45px;
+  }
+  
+  #rightJumbo {
+    text-align: center;
+    width: 50%;
+  }
+  
+  
+  #logo {
+    width: 100%;
+    height: 100%;
+  }

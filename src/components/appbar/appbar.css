@@ -1,0 +1,12 @@
+#appBar {
+    background-color: #222;
+}
+
+#home {
+    filter: invert(100%);
+}
+
+#aboutUs, #contactUs {
+    color: #AE3251;
+    font-family: 'Libre Baskerville', serif;
+}
