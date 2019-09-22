@@ -146,7 +146,7 @@ function App() {
           </Paper>
         </Grid>
         <Grid item xs={12} md={6} id="Body2">
-          <a href="https://www.google.com/maps/dir//sumer+tailoring/@35.2223238,-80.7976045,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x885421d2178a570f:0x44759b962d3444d!2m2!1d-80.760941!2d35.202932"><img src={MapIMG} alt="none" id="mapIMG"/></a>
+          <a href="https://www.google.com/maps/dir//sumer+tailoring/@35.2223238,-80.7976045,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x885421d2178a570f:0x44759b962d3444d!2m2!1d-80.760941!2d35.202932" target="_blank" rel="noopener noreferrer"><img src={MapIMG} alt="none" id="mapIMG"/></a>
         </Grid>
       </Grid>
       </Fade>
